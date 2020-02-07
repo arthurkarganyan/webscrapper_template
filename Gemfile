@@ -8,3 +8,5 @@ gem "capybara", "~> 3.31"
 gem "selenium-webdriver", "~> 3.142"
 
 gem "pry", "~> 0.12.2"
+
+gem "dotenv", "~> 2.7"
